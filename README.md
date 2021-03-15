@@ -14,4 +14,4 @@ Buld atual jogável (WebGL):
 https://avatark0.itch.io/freedom
 
 RoadMap:
-mandragora.codecks.io/Freedom
+https://mandragora.codecks.io/Freedom
