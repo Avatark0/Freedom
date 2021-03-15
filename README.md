@@ -13,5 +13,5 @@ Depois aparece por lá!
 Buld atual jogável (WebGL): 
 https://avatark0.itch.io/freedom
 
-RoadMap:
-https://mandragora.codecks.io/Freedom
+RoadMap (atualizar quando se tornar público):
+https://mandragora.codecks.io/decks
